@@ -1,0 +1,11 @@
+TODO: HOLD KEY: find a way to make it so user can hold a key down and repeatedly do what happens if they press it once without stopping everything else
+
+TODO: CODE REDUCTION: make general 2d object classes and functions, then make one 'library' in game folder and include it in the index.html files then use it in the sketch.js files
+	the library has:
+	1)class with x,y,scale
+	2)class with object 1) and xVel and yVel
+	3)collision function(pass objects? Or x and y and scales and shape types?)
+	4)offscreen function(pass objects? Or x and y?)
+	5)keyboard interfaces?
+	6)classes with show functions get this.r,this.g,this.b for color options?
+	7)make multiple contractors? Or just make one?
